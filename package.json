@@ -1,5 +1,5 @@
 {
-  "name": "soketIO",
+  "name": "chatop",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -16,7 +16,7 @@
     "socket.io": "^2.3.0"
   },
   "repository": {"type": "git",
-  "url": "https://github.com/carlossm50/CSChar.git"},
+  "url": "https://github.com/carlossm50/chatop.git"},
   "devDependencies": {
     "nodemon": "^2.0.4"
   }

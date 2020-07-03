@@ -8,20 +8,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="main.css">
     <script src="/socket.io/socket.io.js" charset="UTF-8"></script>
-
 </head>
-
 <body>
-    <div id="chat-container">
-        <div id="chat-window">
+    
+    <div id="chat-container" class="row">
+        <div id="chat-window" >
             <div id="output">
             </div>
             <div id="actions"></div>
-            <input type="text" id="username" placeholder="User name">
-            <input type="text" id="message" placeholder="Message">
-            <button id="send"> Send</button>
-
+            <div class="message-container">
+                <input type="text" id="message" placeholder="Message">
+                <button id="send" > Send</button>
+            </div>
+            
         </div>
+
+                <input  type="text" id="username" placeholder="User name"/>
     </div>
     <script src="chat.js" charset="UTF-8"></script>
 </body>
