@@ -1,0 +1,72 @@
+Este es un instructivo de como inscribir estudiantes el el Sistema de Informacion para la Gestion Escolar de la Republica Dominicana (SIGERD).
+ 
+Como iniciar secion en el Sistemas SIGERD:
+
+1.  Entrar a https://sigerd.minerd.gob.do/ utilizando su usuario, el cual es su número de cédula sin guiones, y su 
+contraseña. 
+ 
+
+PARA INSCRIBIR ESTUDIANTES NUEVOS EN EL CENTRO PERO QUE YA HAN ESTUDIADO ANTES EN OTRO CENTRO EDUCATIVO DE REPUBLICA DOMINICANA: 
+ 
+1.	Si el estudiante es nuevo en el centro:  En el menú derecho de la pantalla elegimos la opción REGISTRO y de aquí, elegimos Inscripción de estudiantes y procedemos a registrar algunos datos del estudiante (nombre, apellido, fecha de nacimiento) y pulsamos el botón buscar. 
+ 
+2.	Debajo aparecerá el posible estudiante que estoy buscando o podría aparecer más de uno que coincida con los datos que registré en el punto tres.  Vamos a buscar el qué más coincida de acuerdo con los datos que tenemos en el acta de nacimiento del estudiante y daremos click en el botón historial  (esto nos dará información importante, como el centro de procedencia  del estudiante y  el grado que debe ser inscrito) 
+OJO:  Si tengo el ID del estudiante, solo tengo que digitarlo y hacer la búsqueda, sólo aparecerá el estudiante que estoy buscando. 
+3.	Cuando estemos seguros que es el estudiante que estamos buscando, vamos a dar click en inscribir, luego elegidos el servicio, grado y sección luego damos click en inscribir.  YA 
+TENEMOS INSCRITO EL ESTUDIANTE 
+ 
+PARA ESTUDIANTES NUEVOS EN EL SISTEMA EDUCATIVO DOMINICANO. ES DECIR QUE ESTUDIAN POR PRIMERA VEZ QUE ESTUDIAN EN REPÚBLICA DOMINICANA, YA SEA PORQUE NUNCA HABIAN ESTADO INSCRITOS EN UNA ESCUELA O PORQUE VIENEN DEL EXTRANJERO:
+1. Si el estudiante va a los grados del Nivel Inicial:  En el menú derecho de la pantalla elegimos la opción REGISTRO y de aquí, elegimos Inscripción de estudiantes y procedemos a registrar algunos datos del estudiante (nombre, apellido, fecha de nacimiento) y pulsamos el botón buscar.  Si el estudiante realmente nunca fue inscrito en un centro educativo no lo vamos a encontrar, en este caso procedemos a inscribirlo dando click en el botón Inscribir nuevo estudiante. 
+2.	Llenamos el formulario con la información del Acta de Nacimiento del Estudiante, nos aseguramos de llenar correctamente todos los datos, incluyendo la información de los Padres y tutores, además de el servicio, grado y sección luego damos click en inscribir.  YA TENEMOS 
+INSCRITO EL ESTUDIANTE 
+3.	Si el estudiante es extranjero, comunicarse con el técnico distrital. 
+ 
+PASOS PARA REINSCRIBIR UN ESTUDIANTE EN EL SIGERD (SÓLO PARA ESTUDIANTES QUE  CULMINARON EL AÑO ANTERIOR EN EL CENTRO): 
+ 
+1.	Entrar a https://sigerd.minerd.gob.do/ utilizando su usuario (número de cédula sin guiones) y su contraseña. 
+2.	En el menú derecho de la pantalla elegimos la opción REGISTRO y de aquí, elegimos Reinscripción de estudiantes. 
+3.	Seleccionamos Servicio y Grado, esto desplegará la lista de los estudiantes que promovieron el año anterior a este grado en el centro. 
+4.	Seleccionamos el estudiante: 
+a)	Si el estudiante continúa en el centro seleccionamos Reinscribir.  YA TENEMOS INSCRITO EL ESTUDIANTE 
+b)	Si el estudiante no estará este año en el centro seleccionamos Liberar. YA EL ESTUDIANTE ESTÀ LIBRE PARA QUE SU NUEVO CENTRO LO INSCRIBA. 
+
+ NOTA IMPORTANTE :   
+	• El botón acciones me permite seleccionar varios estudiantes al mismo tiempo. 
+	• Para los Centros con varias secciones de un solo grado:  Si doy click en Sección, se organizan las secciones y es más fácil reinscribir a los estudiantes en la sección que le corresponde. 
+ 
+DATOS QUE DEBE RECORDAR: 
+a)	Si al momento de inscribir un estudiante que está seguro pertenece al centro, aún aparece inscrito en el centro que estudió el año pasado, INSCRIBALO, es la única manera que tiene el técnico distrital de ver la situación y buscarle solución. 
+b)	Los estudiantes que no pertenecen al centro, LIBERELOS, así evitamos colisiones. 
+ 
+PARA LOS NIÑOS DE NIVEL INICIAL LAS EDADES SON LAS SIGUIENTES :
+GRADOS Párvulos EDAD DEL NIÑO PARA CURSAR EL GRADO De 2 años a 2 y 11 meses 
+GRADOS Pre-Kinder 	De 3 años a 3 y 11 meses
+GRADOS Kinder 	De 4 años a 4 y 11 meses 
+GRADOS Pre-Primario De 5 años a 5 y 11 meses 
+ 
+PASOS PARA REGISTRAR PERSONAL EN EL SIGERD : 
+1.	Entrar a https://sigerd.minerd.gob.do/ utilizando su usuario (número de cédula sin guiones) y su contraseña. 
+2.	En el menú derecho de la pantalla elegimos la opción REGISTRO y de aquí, elegimos Ficha de Personal 
+3.	Damos click en el botón Registro desde año anterior y se desplegará un lista con todo el personal registrado el año anterior en el centro. 
+Al lado de cada persona, tengo dos opciones: 
+Liberar:  Si la persona ya no labora en el centro educativo, seleccionamos Liberar. Registrar:  Si la persona continúa laborando en el centro educativo seleccionamos Registrar. 
+4.	Para el personal que es nuevo en el centro educativo damos click en el botón registrar nueva persona, procedemos a llenar el formulario que se presenta y le damos click a registrar. 
+OJO:  En el SIGERD debe estar registrado TODO el personal que labora en el centro:  Docente, Administrativo y de Apoyo. 
+ 
+ 
+PASOS PARA ASIGNAR PROFESOR ENCARGADO O TUTOR  A CADA SECCION :
+1.	Entrar a https://sigerd.minerd.gob.do/ utilizando su usuario (número de cédula sin guiones) y su contraseña. 
+2.	En el menú derecho de la pantalla elegimos la opción PLANEACION ACADEMICA y de aquí, elegimos Secciones. 
+3.	Se desplega un menú con todos los grados y secciones, para asignar el tutor o encargado a la sección damos click encima de la letra de la sección, se desplegará una ventana, en personal encargado selecciono el maestro encargado de la sección y damos click en guardar. 
+4.	Seguimos el paso 3 para cada una de las secciones en cada grado. 
+5.	Antes de salir asegúrese de darle click en el botón  Guardar que está encima de las secciones. 
+
+
+INCONSISTENCIAS QUE SE PUEDEN CREAR EN EL SISTEMA:
+Cuando un estudiante que ya se encuentra inscrito en un centro educativo se inscribe en otro centro diferente se crea una colisión.
+Cuando un estudiante que ya tiene un registro en el SIGERD se le hace otro registro, se crea un duplicidad de registro o estudiante duplicado.
+Cuando se le crea un nuevo registro a un estudiante de de un grado mayor a primero de primario se crea un registro con historial incompleto y debe revisarse ese registro.
+Para no crear una inconsistencia en el sistgema, al moneto de asignar la condicion academica final a un estudiante se debe tener en cuenta lo siguiente:
+	* Si es estado de estudiantes inscrito la condicion final puede ser promovido, Reprobado o plazado.
+	* Si es estado de estudiantes Transferido la condicion final debe ser Transferido.
+	* Si es estado de estudiantes Abandono la condicion final debe ser Abandono.
